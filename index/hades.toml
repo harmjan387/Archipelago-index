@@ -6,3 +6,4 @@ default_url = "https://github.com/NaixGames/Polycosmos/releases/download/{{versi
 "0.12.3" = {}
 "0.13.0" = {}
 "0.13.1" = {}
+"4.1.1" = {url = "https://github.com/NaixGames/Polycosmos/releases/download/0.4.1.1/hades.apworld"}
